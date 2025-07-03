@@ -29,5 +29,9 @@ Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 ## Files
 [REPORT OF ANALYSIS FOR KULTRA MEGA STORES ABUJA DIVISION.docx](https://github.com/user-attachments/files/21008445/REPORT.OF.ANALYSIS.FOR.KULTRA.MEGA.STORES.ABUJA.DIVISION.docx) : All questions and answers.
+
 [KMS Sql Case Study.csv](https://github.com/user-attachments/files/21008526/KMS.Sql.Case.Study.csv) : Sample data
+
+[Order_Status.csv](https://github.com/user-attachments/files/21047620/Order_Status.csv) : Sample data
+
 
