@@ -1,4 +1,4 @@
-[KMS Sql Case Study.csv](https://github.com/user-attachments/files/21008526/KMS.Sql.Case.Study.csv)# DATA ANALYSIS PROJECT USING SQL
+# DATA ANALYSIS PROJECT USING SQL
 ## Overview
 This project presents a structured SQL-based analysis of KMS Company’s sales data. The goal is to analyze the data from 2009 to 2012 and present key insights and findings to support the Abuja division management decisions on profitability, shipping efficiency, customer value, and returns.
 Using my analytical thinking and all that I have learned from Digital SkillUp Africa, I was able to analyze that data using structured Query Language (SQL). 
@@ -29,4 +29,5 @@ Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 ## Files
 [REPORT OF ANALYSIS FOR KULTRA MEGA STORES ABUJA DIVISION.docx](https://github.com/user-attachments/files/21008445/REPORT.OF.ANALYSIS.FOR.KULTRA.MEGA.STORES.ABUJA.DIVISION.docx) : All questions and answers.
+[KMS Sql Case Study.csv](https://github.com/user-attachments/files/21008526/KMS.Sql.Case.Study.csv) : Sample data
 
