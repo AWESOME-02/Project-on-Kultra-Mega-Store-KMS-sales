@@ -129,5 +129,14 @@ ORDER BY [Number of Orders]
 [KMS Sql Case Study.csv](https://github.com/user-attachments/files/21008526/KMS.Sql.Case.Study.csv) : Sample data
 
 [Order_Status.csv](https://github.com/user-attachments/files/21047620/Order_Status.csv) : Sample data
+## Visuals to support answers
+Question 4
+![Image 1](https://github.com/user-attachments/assets/9fe9b5d2-a87e-4beb-90fa-4b24c5d8a29a) 
+
+Question 11
+
+![Image 2](https://github.com/user-attachments/assets/d94668a7-1edf-4299-9ad4-13e5a642d764) 
+
+
 
 
